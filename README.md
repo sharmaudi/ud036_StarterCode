@@ -6,14 +6,25 @@ This project is implemented using python 3 and has been tested with python versi
 
 # Installation
 1. Clone the repository
-`git clone https://github.com/sharmaudi/ud036_StarterCode.git`
-2. `cd ud036_StarterCode` 
+```python
+git clone https://github.com/sharmaudi/ud036_StarterCode.git
+```
+
+2. Change to the repository directory 
+```
+cd ud036_StarterCode
+``` 
+
 3. Install the dependencies. The project is dependent on Jinja2 templating engine.
-`pip install -r requirements.txt`
+```python 
+pip install -r requirements.txt
+```
 
 # Deployment
 Just run the entertainment_center.py file.
-`python entertainment_center.py`
+```
+python entertainment_center.py
+```
 
 # Author
 Udit Sharma
